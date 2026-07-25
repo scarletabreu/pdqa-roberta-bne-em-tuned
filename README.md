@@ -20,13 +20,15 @@ The trained model is available on Hugging Face:
 
 https://huggingface.co/scarletabreu/pdqa-roberta-bne-em-tuned
 
-## Repository structure
+## Repository Structure
 
-```
+```text
 .
-├── 03_Introduccion_QA_Noticias.ipynb  # Notebook principal con el pipeline completo
-├── requirements.txt                   # Dependencias del proyecto
-└── LICENSE                            # Licencia Apache 2.0
+├── 03_Introduccion_QA_Noticias.ipynb  # Main notebook with the full pipeline
+├── 05_evaluate_qa.py                  # Evaluation script
+├── 07_validate_submission.py          # Submission validation script
+├── 09_requirements.txt                # Project dependencies
+└── LICENSE                            # Apache 2.0 License
 ```
 
 ## Dataset
