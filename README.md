@@ -47,9 +47,3 @@ pip install -r requirements.txt
 ## License
 
 Apache License 2.0.
-
-## Links
-
-- Hugging Face Model: https://huggingface.co/scarletabreu/pdqa-roberta-bne-em-tuned
-- Dataset: https://huggingface.co/datasets/Lisibonny/pdqa
-
